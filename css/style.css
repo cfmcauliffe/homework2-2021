@@ -1,6 +1,6 @@
 body{
     font-family: Times, sans-serif;
-    background-color: 000000;
+    background: #000000;
     color: #FFFFFF;   
 }
 
@@ -46,7 +46,7 @@ img {
   #yellow{
     background-color: #FFFF00; 
     text-align: right;
-    color: 000000;
+    color: #000000;
     text-shadow: 4px 4px 2px #c7e2c7;
   }
 
